@@ -44,7 +44,7 @@ async def info(ctx): #info é o comando que ativa o embed title = titulo da msg.
 
 #fim
 
-bot.run('SEU TOKEN')
+bot.run('MTEyMTU5NzcyNzg4OTk2OTE1Mg.GOAdob.FDc9599VDyL7HoFMVrfX-cPl0ABdCFN1yPZ-o0')
 
 #AJUDA
 
